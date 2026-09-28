@@ -8,6 +8,8 @@ The lab combines Kali Linux, OPNsense, Windows 11, Sysmon, and Wazuh SIEM to dem
 
 ## Architecture
 
+![SOC Network Topology](network/network-topology.png)
+
 ```text
 Kali Linux
 192.168.1.10
