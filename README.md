@@ -120,7 +120,6 @@ The rule detects five failed logons from the same source IP within 60 seconds.
 
 The investigation correlated:
 
-```text
 Kali Source IP
       ↓
 OPNsense TCP/445 Traffic
